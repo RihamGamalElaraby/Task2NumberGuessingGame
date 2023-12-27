@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703700012 source:e:\techno hacks codes\task2_number guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
